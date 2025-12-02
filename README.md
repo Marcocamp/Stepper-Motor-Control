@@ -32,7 +32,7 @@ Il sistema include debounce software, gestione della priorità dei pulsanti e lo
 - Cablaggio base
 
 
-## 🔌 Collegamenti
+## Cablaggio
 
 | Funzione              | Arduino Pin |
 |----------------------|-------------|
@@ -100,9 +100,9 @@ Ogni pressione provoca cambio stato immediato.
 Esempi output:
 
 Sistema inizializzato con controllo pulsanti
-Cambio stato: Movimento
-Cambio stato: Vibrazione
-Cambio stato: Pausa
+- Cambio stato: Movimento
+- Cambio stato: Vibrazione
+- Cambio stato: Pausa
 
 ## Struttura del progetto
 
