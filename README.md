@@ -106,11 +106,13 @@ Cambio stato: Pausa
 
 ## Struttura del progetto
 
+```css
 ├── Stepper-Motor-Control
 │   ├── src/
 │   │   └── main.cpp
 │   ├── README.md
 │   ├── LICENSE
+```
 
 ## Come utilizzare
 
